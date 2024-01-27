@@ -28,6 +28,11 @@ yarn-error.*
 .DS_Store
 *.pem
 
+*.apk
+*.aab
+*.app
+*.tar.gz
+
 # local env files
 .env*.local
 
